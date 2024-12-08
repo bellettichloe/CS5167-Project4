@@ -19,7 +19,7 @@ export const petDatabase = [
     location: "Columbus, OH",
     age: "Young",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=1",
+    image: "https://loremflickr.com/300/200/cat?random=1",
     description:
       "Mittens is a beautiful Maine Coon with a luxurious coat and a curious personality. She loves exploring her surroundings and enjoys lounging in sunny spots. Mittens is affectionate and loves gentle head scratches. She’s litter trained and would thrive in a loving home. Her charming personality will win you over instantly.",
   },
@@ -55,7 +55,7 @@ export const petDatabase = [
     location: "Toledo, OH",
     age: "Adult",
     specialNeeds: true,
-    image: "https://placekitten.com/300/200?id=2",
+    image: "https://loremflickr.com/300/200/cat?random=2",
     description:
       "Shadow is a gorgeous Persian cat with a calm and regal demeanor. Despite needing some special care, Shadow is affectionate and enjoys being pampered. She prefers quiet environments and is an excellent companion for a relaxed home. Shadow is looking for someone who can provide her the care and love she deserves.",
   },
@@ -79,7 +79,7 @@ export const petDatabase = [
     location: "Columbus, OH",
     age: "Baby",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=3",
+    image: "https://loremflickr.com/300/200/cat?random=3",
     description:
       "Tiger is a playful tabby kitten with endless curiosity. He loves chasing toys and exploring every corner of the house. Tiger is affectionate and loves being cuddled when he’s tired out from playing. He’s litter trained and ready for his forever home. Tiger would do great in a family with kids or other pets.",
   },
@@ -115,7 +115,7 @@ export const petDatabase = [
     location: "Dayton, OH",
     age: "Young",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=4",
+    image: "https://loremflickr.com/300/200/cat?random=4",
     description:
       "Oliver is a stunning Ragdoll cat with a gentle and laid-back personality. He loves being held and will follow you around the house. Oliver enjoys playing with feather toys and lounging in cozy spots. He’s perfect for a family looking for a relaxed and affectionate feline companion.",
   },
@@ -163,7 +163,7 @@ export const petDatabase = [
     location: "Columbus, OH",
     age: "Baby",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=8",
+    image: "https://loremflickr.com/300/200/cat?random=5",
     description:
       "Pumpkin is a sweet tabby kitten who is curious about everything. She loves chasing laser pointers and playing with balls of yarn. Pumpkin enjoys cuddling and purring when she’s tired. She would be a delightful addition to any family.",
   },
@@ -199,7 +199,7 @@ export const petDatabase = [
     location: "Dayton, OH",
     age: "Old",
     specialNeeds: true,
-    image: "https://placekitten.com/300/200?id=9",
+    image: "https://loremflickr.com/300/200/cat?random=6",
     description:
       "Angel is a gentle Himalayan cat with stunning blue eyes. She enjoys quiet afternoons and loves being pampered. Despite needing some special care, Angel is a sweet and affectionate companion who thrives in a calm home environment. She’s ready for a home where she can be spoiled and loved.",
   },
@@ -259,7 +259,7 @@ export const petDatabase = [
     location: "Toledo, OH",
     age: "Adult",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=11",
+    image: "https://loremflickr.com/300/200/cat?random=7",
     description:
       "Lilly is an elegant Bengal cat with striking markings. She’s highly intelligent and loves exploring her surroundings. Lilly is affectionate and enjoys interactive toys. She’s ready to bring excitement and companionship to her forever home.",
   },
@@ -283,7 +283,7 @@ export const petDatabase = [
     location: "Columbus, OH",
     age: "Baby",
     specialNeeds: false,
-    image: "https://placekitten.com/300/200?id=12",
+    image: "https://loremflickr.com/300/200/cat?random=8",
     description:
       "Peaches is a playful and curious tabby kitten with a love for adventure. She enjoys playing with feather toys and cuddling when she’s sleepy. Peaches is litter-trained and ready to bring joy to her new home.",
   },
